@@ -1,2 +1,2 @@
-GitHub: Matthewjre
+GitHub: Matthewjre <br />
 Email: mjre@g.clemson.edu
