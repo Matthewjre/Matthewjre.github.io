@@ -4,7 +4,7 @@ collection: teaching
 type: "Summer Camp"
 permalink: /teaching/EdASE
 venue: "Clemson University, Human Factors of Software Engineering"
-date: 2021, 2022
+date: 2021-07-01
 location: "Clemson, USA"
 ---
 
