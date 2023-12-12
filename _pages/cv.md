@@ -6,5 +6,4 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
-<object data= "{{files\Public_Academic_CV___Matthew_Re___UDec23.pdf}}" type='application/pdf'>
+<embed src="Matthewjre.github.io/files/Public_Academic_CV___Matthew_Re___UDec23.pdf" type="application/pdf"/>
