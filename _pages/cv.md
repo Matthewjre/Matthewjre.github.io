@@ -6,4 +6,4 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<embed src="Matthewjre.github.io/files/Public_Academic_CV___Matthew_Re___UDec23.pdf" type="application/pdf"/>
+<embed src="http://Matthewjre.github.io/files/Public_CV.pdf" type="application/pdf"/>
