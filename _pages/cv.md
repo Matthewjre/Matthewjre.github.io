@@ -6,4 +6,5 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<embed src="http://Matthewjre.github.io/files/Public_CV.pdf" type="application/pdf"/>
+Here is a link you can use to access my public CV.
+[Access it here.](https://drive.google.com/file/d/1CDAUWCqGH-CPO8gwQ-_xrVZ91u7oof0o/view?usp=drive_link)
